@@ -13,7 +13,7 @@
         "name": "Ahmed Kandel"
     }],
     "require": {
-        "laravel/nova": "^3.12"
+        "laravel/nova": "*"
     },
     "autoload": {
         "psr-4": {
